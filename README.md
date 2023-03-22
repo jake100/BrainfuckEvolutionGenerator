@@ -1,2 +1,2 @@
 # BrainfuckEvolutionGenerator
-Generates Brainfuck code by uses an evolutionary algorithm.
+Generates Brainfuck code by using an evolutionary algorithm.
